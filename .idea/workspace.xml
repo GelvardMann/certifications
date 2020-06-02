@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1c42d14-7d19-413c-aa5a-02a2075aa771" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/site/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/site/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/site/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/site/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/site/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/site/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/site/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/site/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/site/vendor/composer" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/site/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/site/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/site/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/site/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/site/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/site/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/site/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/site/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/site/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/site/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/site/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/site/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/site/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/site/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/site/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/site/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/site/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/site/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/site/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/site/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/site/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/site/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/site/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/site/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/site/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/site/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/site/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/site/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/site/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/site/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/site/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/site/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/site/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/site/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/site/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/site/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/site/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/site/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/site/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/site/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/site/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/site/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/site/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/site/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/site/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/site/vendor/phpunit/phpunit" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1cUmSsfweI15O9cLFKdl2lm36wd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\certifications\public_html\uploads\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1c42d14-7d19-413c-aa5a-02a2075aa771" name="Default Changelist" comment="" />
+      <created>1590591548425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590591548425</updated>
+      <workItem from="1590591550600" duration="4183000" />
+      <workItem from="1590595745776" duration="13451000" />
+      <workItem from="1590626580668" duration="2000" />
+      <workItem from="1590626608715" duration="4000" />
+      <workItem from="1590672734659" duration="135000" />
+      <workItem from="1590762519265" duration="19074000" />
+      <workItem from="1590847859993" duration="752000" />
+      <workItem from="1591132444855" duration="30000" />
+      <workItem from="1591133160256" duration="872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1150" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1590795624584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1150" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590795624584" />
+    <state x="1222" y="394" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#1" timestamp="1590793960410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1222" y="394" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#1/0.0.1920.1040@0.0.1920.1040" timestamp="1590793960410" />
+    <state x="1201" y="275" key="FileChooserDialogImpl" timestamp="1590672878797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590672878797" />
+    <state x="1193" y="443" key="NewPhpFileDialog" timestamp="1590801200991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1193" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590801200991" />
+    <state x="859" y="164" key="SettingsEditor" timestamp="1591132471515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591132471515" />
+    <state x="1128" y="253" width="585" height="534" key="find.popup" timestamp="1590594238838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1128" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590594238838" />
+  </component>
+</project>

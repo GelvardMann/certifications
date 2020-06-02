@@ -1,0 +1,17 @@
+.profile-photo {
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.profile-settings {
+    font-size: 2em;
+    color: #0f0f0f;
+    opacity: .7;
+}
+
+.profile-settings:hover {
+    opacity: 1;
+    color: #0f0f0f;
+    text-decoration: none;
+}
